@@ -74,6 +74,9 @@ body{
     background: var(--clr);
     transform-origin: bottom right;
     transform: rotate(calc(45deg * var(--i)));
-    clip-path: polygon(0 0, 50% 0, 100% 100%, 0 50%);
-
+    clip-path: polygon(0 0, 56% 0, 100% 100%, 0 56%);
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    cursor: pointer;
 }
