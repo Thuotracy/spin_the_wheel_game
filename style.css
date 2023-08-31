@@ -66,3 +66,12 @@ body{
     0 0 0 15px #fff,
     0 0 0 18px #111;
 }
+
+.container .wheel .number{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background: var(--clr);
+    transform-origin: bottom right;
+    transform: rotate(calc(45deg * var(--i)));
+}
