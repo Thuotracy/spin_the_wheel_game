@@ -6,7 +6,7 @@ This is a spin the wheel game.
 
 ## live link
 
-https://thuotracy.github.io/random-quote-generator/
+
 
 ##  Languages 
 * CSS
