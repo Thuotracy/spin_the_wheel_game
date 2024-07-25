@@ -1,5 +1,4 @@
 # spin_the_wheel_game
-
 ## Description
 
 This is a spin the wheel game.
